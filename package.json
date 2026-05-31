@@ -20,6 +20,14 @@
   ],
   "author": "Nabeel Munir",
   "license": "MIT",
+  "homepage": "https://github.com/nabeelmunir00/nextify-cli#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nabeelmunir00/nextify-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nabeelmunir00/nextify-cli/issues"
+  },
   "dependencies": {
     "chalk": "^5.3.0",
     "commander": "^11.1.0",
