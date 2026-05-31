@@ -1,0 +1,29 @@
+{
+  "name": "create-next-bones",
+  "version": "1.0.0",
+  "description": "⚡ Quickly scaffold a Next.js project folder structure",
+  "type": "module",
+  "bin": {
+    "next-scaffold": "./bin/index.js"
+  },
+  "main": "./bin/index.js",
+  "scripts": {
+    "start": "node bin/index.js"
+  },
+  "keywords": [
+    "nextjs",
+    "scaffold",
+    "cli",
+    "boilerplate",
+    "next.js",
+    "folder-structure"
+  ],
+  "author": "Nabeel Munir",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^11.1.0",
+    "figlet": "^1.7.0",
+    "ora": "^8.0.1"
+  }
+}
