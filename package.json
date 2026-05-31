@@ -1,5 +1,5 @@
 {
-  "name": "create-nxtbones",
+  "name": "create-next-bones-cli",
   "version": "1.0.0",
   "description": "⚡ Quickly scaffold a Next.js project folder structure",
   "type": "module",
